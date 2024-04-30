@@ -65,17 +65,6 @@
         "controlled"
       ],
       "correctIndex": 1
-    },
-    {
-      "prompt": "What's My favorite Color",
-      "answers": [
-        "Blue",
-        "Green",
-        "Purple",
-        "Pink"
-      ],
-      "correctIndex": 0,
-      "id": 7
     }
   ]
 }
